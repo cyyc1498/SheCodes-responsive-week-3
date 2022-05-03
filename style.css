@@ -119,3 +119,10 @@ img {
 .img-fluid {
     max-width: 100%;
 }
+
+@media(max-width:768px){
+    .col-md-4{
+        margin-bottom: 10px;
+    }
+    
+}
